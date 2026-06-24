@@ -1,4 +1,4 @@
 interface:
-  display_name: "RaBrat Illustrations"
-  short_description: "One-eyed raccoon article illustration prompts"
-  default_prompt: "Use $rabrat-illustrations to create a shot list and generate RaBrat-style article illustrations."
+  display_name: "RaBrat Illustrations V1.2"
+  short_description: "Fantasy one-eyed RaBrat article illustrations"
+  default_prompt: "Use $rabrat-illustrations to create a shot list and generate RaBrat V1.2-style article illustrations or 1:1 Xiaohongshu cards."
