@@ -1,0 +1,4 @@
+interface:
+  display_name: "RaBrat Illustrations"
+  short_description: "One-eyed raccoon article illustration prompts"
+  default_prompt: "Use $rabrat-illustrations to create a shot list and generate RaBrat-style article illustrations."
